@@ -8,13 +8,25 @@ The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honey
 </p>
 
 <div align="center">
-  <a href="http://www.shihuahuang.cn">Shihua Huang</a><sup>1</sup>,
-  <a href="https://scholar.google.com/citations?user=tIFWBcQAAAAJ&hl=en">Zhichao Lu</a><sup>2</sup>,
-  <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a><sup>3</sup>,
-  Yongjun Yu<sup>1</sup>,
-  Xiao Zhou<sup>4</sup>, 
-  <a href="https://xishen0220.github.io">Xi Shen</a><sup>1*</sup>
+  Zhongqiang Song<sup>1</sup>,
+  Jiahao Shen<sup>1</sup>, 
+  Qiaoyi Liu<sup>1</sup>, 
+  Wanyue Zhang<sup>1</sup>, 
+  Ziqian Ren<sup>1</sup>, 
+  Kaiwen Yang<sup>1</sup>, 
+  Xinle Li<sup>1</sup>, 
+  Jialei Liu<sup>1</sup>, 
+  Fengming Yan<sup>1</sup>, 
+  Wenqiang Li<sup>1</sup>, 
+  Yuqing Xing<sup>1</sup>, 
+  Lili Wu<sup>1</sup>, 
 </div>
+
+<p align="center">
+<i>
+1. College of Science, Henan Agricultural University, Zhengzhou, Henan 450002, China &nbsp; 2. College of Plant Protection, Henan Agricultural University, Zhengzhou, Henan 450046, China &nbsp; 3. College of Computing, City University of Hong Kong, Hong Kong, 999077, China &nbsp;
+</i>
+</p>
 
 ## Dataset
 In the experiment, the first fine-grained aphid behavior dataset, encompassing crawling, flicking, and honeydew excretion behaviors, was constructed.
