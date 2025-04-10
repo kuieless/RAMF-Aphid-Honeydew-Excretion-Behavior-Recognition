@@ -103,7 +103,7 @@ For complete pre-processing and post-processing, you need to replace the predict
 Run detect7-31.py to achieve real-time streaming inference at 31 fps.
 
 ### RAMF：Rapid Adaptive Motion-Feature Fusion
-![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/RAMF.png)
+![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition/blob/master/RAMF.png)
 
 ### Stage-wise Honeydew Excreting Detection Pipeline and Results.
 ![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Stage-wise%20Honeydew%20Excreting%20Detection%20Pipeline%20and%20Results.png)
