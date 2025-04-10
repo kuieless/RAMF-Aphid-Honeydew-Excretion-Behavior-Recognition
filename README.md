@@ -51,10 +51,19 @@ In the experiment, the first fine-grained aphid behavior dataset, encompassing c
 Our dataset can be found at https://drive.google.com/file/d/1uIJgNi4OcERA8spSsAdOIX-0BAINIZKS/view?usp=sharing
 
 ### Motion Feature
+```shell
+python flow10.py
+python flow10%2.py
+```
 Use flow10.py to process all videos for generating datasets for annotation.
 Use flow10%2.py for cross-frame processing of videos, where original frames and motion frames appear alternately. After processing, the video can be input for detection. (PS: When detecting aphids, we used cross-processing to detect Honeydew in the original frames; see the paper for specific details.)
 
 ### Detect
+```shell
+python detect2.py
+python detect3.py
+python detect7-31.py
+```
 We have three versions for inference: the first two, detect2 and detect3, are slower in processing speed, while detect7 is the final version and the fastest.
 For trained models, run detect2.py directly for real-time end-to-end streaming inference.
 For complete pre-processing and post-processing, you need to replace the predictor.py in the engine directory, then run detect3 for streaming inference.
