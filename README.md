@@ -1,13 +1,8 @@
 # RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition
 The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honeydew Excretion Behavior Recognition Method Based on Rapid Adaptive Motion-Feature Fusion》
 
-## Stage-wise Honeydew Excreting Detection Pipeline and Results.
-![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Stage-wise%20Honeydew%20Excreting%20Detection%20Pipeline%20and%20Results.png)
-
-
 ## RAMF：Rapid Adaptive Motion-Feature Fusion
 ![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/RAMF.png)
-
 
 ## Dataset
 
@@ -30,3 +25,6 @@ Run detect7-31.py to achieve real-time streaming inference at 31 fps.
 
 ## Detection Results Based on the Model with the Highest mAP50 Metric.
 ![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Detection%20Results.png)
+
+## Stage-wise Honeydew Excreting Detection Pipeline and Results.
+![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Stage-wise%20Honeydew%20Excreting%20Detection%20Pipeline%20and%20Results.png)
