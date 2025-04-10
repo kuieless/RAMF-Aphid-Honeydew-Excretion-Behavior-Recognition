@@ -1,4 +1,4 @@
-# Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code.
+## Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code. However, we have prepared the dataset and weight files, which are available for download on Google Drive.
 
 <h2 align="center">
   RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition
