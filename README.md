@@ -28,7 +28,19 @@ The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honey
 </i>
 </p>
 
-## Dataset
+## 2. Quick start
+
+### Setup
+！python3.12.3
+！PyTorch: 2.3.0+cu121
+！torchvision: 0.18.0+cu121
+
+```shell
+conda create -n deim python=3.12.3
+conda activate RAMF
+pip install -r requirements.txt
+```
+### Dataset
 In the experiment, the first fine-grained aphid behavior dataset, encompassing crawling, flicking, and honeydew excretion behaviors, was constructed.
 Our dataset can be found at https://drive.google.com/drive/folders/1jJmJQ4SDzEU89UJcFL73Itk1t712wMut?usp=sharing
 
