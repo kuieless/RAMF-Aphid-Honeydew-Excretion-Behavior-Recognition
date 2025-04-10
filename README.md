@@ -23,8 +23,5 @@ For trained models, run detect2.py directly for real-time end-to-end streaming i
 For complete pre-processing and post-processing, you need to replace the predictor.py in the engine directory, then run detect3 for streaming inference.
 Run detect7-31.py to achieve real-time streaming inference at 31 fps.
 
-## Detection Results Based on the Model with the Highest mAP50 Metric.
-![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Detection%20Results.png)
-
 ## Stage-wise Honeydew Excreting Detection Pipeline and Results.
 ![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Stage-wise%20Honeydew%20Excreting%20Detection%20Pipeline%20and%20Results.png)
