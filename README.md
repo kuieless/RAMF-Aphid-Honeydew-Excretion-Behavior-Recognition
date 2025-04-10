@@ -67,6 +67,11 @@ process_video(input_path, save_path)
 Use flow10.py to process all videos for generating datasets for annotation.
 Use flow10%2.py for cross-frame processing of videos, where original frames and motion frames appear alternately. After processing, the video can be input for detection. (PS: When detecting aphids, we used cross-processing to detect Honeydew in the original frames; see the paper for specific details.)
 
+### Replace predictor
+```shell
+Replace the original ultralytics\engine\predictor.py with predictor.py.
+```
+
 ### Detect
 ```shell
 python detect2.py
