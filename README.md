@@ -55,6 +55,15 @@ Our dataset can be found at https://drive.google.com/file/d/1uIJgNi4OcERA8spSsAd
 python flow10.py
 python flow10%2.py
 ```
+```shell
+params：
+startFrame = 0
+TimeWindow = 10  # 时间窗口大小
+batch_size = 256  # 减小批量大小以更好地管理GPU内存
+input_path = r'input_1-2.mp4'
+save_path = r'milu-re'
+process_video(input_path, save_path)
+```
 Use flow10.py to process all videos for generating datasets for annotation.
 Use flow10%2.py for cross-frame processing of videos, where original frames and motion frames appear alternately. After processing, the video can be input for detection. (PS: When detecting aphids, we used cross-processing to detect Honeydew in the original frames; see the paper for specific details.)
 
