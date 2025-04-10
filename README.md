@@ -48,6 +48,7 @@ https://drive.google.com/drive/folders/1x6HPU3UU2AmzN1T9mhmMuSibFtoCTB2J?usp=sha
 
 ### Dataset
 In the experiment, the first fine-grained aphid behavior dataset, encompassing crawling, flicking, and honeydew excretion behaviors, was constructed.
+If you wish to use this dataset, please cite our paper. The dataset can be referred to as **Aphid-Honeydew.1**.
 Our dataset can be found at https://drive.google.com/file/d/1uIJgNi4OcERA8spSsAdOIX-0BAINIZKS/view?usp=sharing
 
 ### Motion Feature
