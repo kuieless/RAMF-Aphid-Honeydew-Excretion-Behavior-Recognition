@@ -3,9 +3,6 @@
 <h2 align="center">
   RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition
 </h2>
-<p align="center">
-The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honeydew Excretion Behavior Recognition Method Based on Rapid Adaptive Motion-Feature Fusion》
-</p>
 
 <div align="center">
   Zhongqiang Song<sup>1</sup>,
@@ -26,6 +23,10 @@ The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honey
 <i>
 1. College of Science, Henan Agricultural University, Zhengzhou, Henan 450002, China &nbsp; 2. College of Plant Protection, Henan Agricultural University, Zhengzhou, Henan 450046, China &nbsp; 3. College of Computing, City University of Hong Kong, Hong Kong, 999077, China &nbsp;
 </i>
+</p>
+
+<p align="center">
+The codes、datasets、weights of paper《High-Throughput End-to-End Aphid Honeydew Excretion Behavior Recognition Method Based on Rapid Adaptive Motion-Feature Fusion》
 </p>
 
 ## 2. Quick start
