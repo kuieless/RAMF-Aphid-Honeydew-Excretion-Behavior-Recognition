@@ -65,6 +65,7 @@ save_path = r'Honeydew'
 process_video(input_path, save_path)
 ```
 Use flow10.py to process all videos for generating datasets for annotation.
+
 Use flow10%2.py for cross-frame processing of videos, where original frames and motion frames appear alternately. After processing, the video can be input for detection. (PS: When detecting aphids, we used cross-processing to detect Honeydew in the original frames; see the paper for specific details.)
 
 ### Train RT-DETR-RK50 Model
@@ -143,8 +144,11 @@ input_path = "/root/autodl-tmp/RTDETR-main/1920.mp4"
 output_dir = "outputs"
 ```
 We have three versions for inference: the first two, detect2 and detect3, are slower in processing speed, while detect7 is the final version and the fastest.
+
 For trained models, run detect2.py directly for real-time end-to-end streaming inference.
+
 For complete pre-processing and post-processing, you need to replace the predictor.py in the engine directory, then run detect3 for streaming inference.
+
 Run detect7-31.py to achieve real-time streaming inference at 31 fps.
 
 ### RAMF：Rapid Adaptive Motion-Feature Fusion
