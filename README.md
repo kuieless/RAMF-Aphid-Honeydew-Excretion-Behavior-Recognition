@@ -1,4 +1,4 @@
-# Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code.
+# Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code.
 
 <h2 align="center">
   RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition
