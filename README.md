@@ -67,6 +67,46 @@ process_video(input_path, save_path)
 Use flow10.py to process all videos for generating datasets for annotation.
 Use flow10%2.py for cross-frame processing of videos, where original frames and motion frames appear alternately. After processing, the video can be input for detection. (PS: When detecting aphids, we used cross-processing to detect Honeydew in the original frames; see the paper for specific details.)
 
+### Train RT-DETR-RK50 Model
+```shell
+import warnings
+warnings.filterwarnings('ignore')
+from ultralytics import RTDETR
+
+if __name__ == '__main__':
+    model = RTDETR('ultralytics/cfg/models/rt-detr/rtdetr-rk50.yaml')
+    # model.load('') # loading pretrain weights
+    model.train(data='dataset\data.yaml',
+                cache=True,
+                imgsz=640,
+                epochs=100,
+                batch=4,
+                workers=18,
+                device='0',
+                # resume='', # last.pt path
+                project='runs/train',
+                name='exp',
+                )
+```
+
+### Val
+```shell
+import warnings
+warnings.filterwarnings('ignore')
+from ultralytics import RTDETR
+
+if __name__ == '__main__':
+    model = RTDETR('runs/train/exp83/weights/best.pt')
+    model.val(data='dataset/data.yaml',
+              split='val',
+              imgsz=640,
+              batch=1,
+            #   save_json=True, # if you need to cal coco metrice
+              project='runs/val',
+              name='exp',
+              )
+```
+
 ### Replace predictor
 ```shell
 Replace the original ultralytics\engine\predictor.py with predictor.py.
