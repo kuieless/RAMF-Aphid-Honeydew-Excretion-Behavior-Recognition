@@ -74,3 +74,8 @@ Run detect7-31.py to achieve real-time streaming inference at 31 fps.
 
 ### Stage-wise Honeydew Excreting Detection Pipeline and Results.
 ![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Rapid-Adaptive-Motion-Feature-Fusion/blob/main/Stage-wise%20Honeydew%20Excreting%20Detection%20Pipeline%20and%20Results.png)
+
+## Acknowledgement
+Our work is built upon [RT-DETR](https://github.com/lyuwenyu/RT-DETR) and https://github.com/z1069614715
+
+✨ Feel free to contribute and reach out if you have any questions! ✨
