@@ -16,7 +16,7 @@
   Fengming Yan<sup>2</sup>, 
   Wenqiang Li<sup>1</sup>, 
   Yuqing Xing<sup>1</sup>, 
-  Lili Wu<sup>1</sup>, 
+  Lili Wu<sup>1,*</sup>, 
 </div>
 
 <p align="center">
