@@ -28,6 +28,7 @@
 ## Demo
 Origin：
 [蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=w-TXDCyeVK0) 
+![蚜虫蜜露排泄行为](origin.gif)
 Full Motion
 [蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=U6TFHKn_7Y0) 
 Cross Motion
