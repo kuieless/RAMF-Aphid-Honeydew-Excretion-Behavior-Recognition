@@ -44,7 +44,7 @@
     *   Run `Flow10.py` to generate the full motion version of the fused video for annotation data. Since the full motion version obscures Honeydew's optical properties, we use crossmotion to detect motion in odd frames and Honeydew in even frames.
 *   **Cross Motion:**
     *   [Watch on YouTube](https://www.youtube.com/watch?v=ACB2qWA67pI)
-    *   The GIF animation cannot perfectly demonstrate the crossmotion effect, please click the YouTube link to view. No preview GIF for this stage.
+    *   Run `Flow10%2.py` to generate the full motion version for detection task.The GIF animation cannot perfectly demonstrate the crossmotion effect, please click the YouTube link to view. No preview GIF for this stage.
 *   **Results:**
     *   [Watch on YouTube](https://www.youtube.com/watch?v=KLuSV7d23nI)
     *   Because the crossmotion version alternates between motion frames and original frames, flickering occurs. We optimized the predictor and performed complete pre- and post-processing for RT-DETR, see the paper for details.
