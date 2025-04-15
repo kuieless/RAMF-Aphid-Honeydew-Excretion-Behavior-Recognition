@@ -26,47 +26,28 @@
 </p>
 
 ## Demo
-Origin：
-[Origin](https://www.youtube.com/watch?v=w-TXDCyeVK0) 
+### Effect Preview
 
-![Origin](origin.gif)
+| Origin                      | Full Motion                         |
+| :--------------------------: | :---------------------------------: |
+| ![Origin Preview](origin.gif) | ![Full Motion Preview](Fullmotion(Flow10).gif) |
+| **Cross Motion**            | **Results**                   |
+| _(No preview GIF)_       | ![Results Preview](Results.gif) |
 
-Full Motion：
-[Full Motion](https://www.youtube.com/watch?v=U6TFHKn_7Y0) Run Flow10.py to generate a full motion version of the fused video for labeling data. Since the full motion version obscures the optical characteristics of Honeydew, we use crossmotion to detect motion in odd frames and Honeydew in even frames.
+### Detailed Description and Links
 
-![Full Motion](Fullmotion(Flow10).gif)
-
-Cross Motion：
-[Cross Motion](https://www.youtube.com/watch?v=ACB2qWA67pI) GIFs cannot perfectly display the crossmotion effect. Please click on YouTube to view it.
-
-Results：
-[Results](https://www.youtube.com/watch?v=KLuSV7d23nI) Since the crossmotion version alternates between motion frames and original frames, flickering can occur. We have optimized the predictor and performed complete pre- and post-processing for RT-DETR. See the paper for details.
-
-![Results](Results.gif)
-
-## Demo
-## 演示 (Demo)
-
-### 效果预览
-
-| 原始 (Origin)         | 全动态 (Full Motion)              | 交叉动态 (Cross Motion) | 结果 (Results)        |
-| :--------------------: | :-------------------------------: | :----------------------: | :-------------------: |
-| ![原始预览](origin.gif) | ![全动态预览](Fullmotion(Flow10).gif) |      _(无预览 GIF)_      | ![结果预览](Results.gif) |
-
-### 详细说明与链接
-
-*   **原始 (Origin):**
-    *   [YouTube 观看](https://www.youtube.com/watch?v=w-TXDCyeVK0)
-    *   原始输入视频。
-*   **全动态 (Full Motion):**
-    *   [YouTube 观看](https://www.youtube.com/watch?v=U6TFHKn_7Y0)
-    *   运行 `Flow10.py` 生成融合视频的全动态版本用于标注数据。由于全动态版本会掩盖 Honeydew 的光学特性，我们使用 crossmotion 在奇数帧检测运动，偶数帧检测 Honeydew。
-*   **交叉动态 (Cross Motion):**
-    *   [YouTube 观看](https://www.youtube.com/watch?v=ACB2qWA67pI)
-    *   GIF 动图无法完美展示 crossmotion 效果，请点击 YouTube 查看。此阶段无预览 GIF。
-*   **结果 (Results):**
-    *   [YouTube 观看](https://www.youtube.com/watch?v=KLuSV7d23nI)
-    *   由于 crossmotion 版本是运动帧和原始帧交替，会出现闪烁。我们优化了 predictor，并为 RT-DETR 做了完整的前后处理，详见论文。
+*   **Origin:**
+    *   [Watch on YouTube](https://www.youtube.com/watch?v=w-TXDCyeVK0)
+    *   Original input video.
+*   **Full Motion:**
+    *   [Watch on YouTube](https://www.youtube.com/watch?v=U6TFHKn_7Y0)
+    *   Run `Flow10.py` to generate the full motion version of the fused video for annotation data. Since the full motion version obscures Honeydew's optical properties, we use crossmotion to detect motion in odd frames and Honeydew in even frames.
+*   **Cross Motion:**
+    *   [Watch on YouTube](https://www.youtube.com/watch?v=ACB2qWA67pI)
+    *   The GIF animation cannot perfectly demonstrate the crossmotion effect, please click the YouTube link to view. No preview GIF for this stage.
+*   **Results:**
+    *   [Watch on YouTube](https://www.youtube.com/watch?v=KLuSV7d23nI)
+    *   Because the crossmotion version alternates between motion frames and original frames, flickering occurs. We optimized the predictor and performed complete pre- and post-processing for RT-DETR, see the paper for details.
 
 
 ## 2. Quick start
