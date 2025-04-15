@@ -44,6 +44,13 @@ Results：
 
 ![Results](Results.gif)
 
+## Demo
+## 演示 (Demo)
+
+| 原始 (Origin) | 全动态 (Full Motion) | 交叉动态 (Cross Motion) | 结果 (Results) |
+| :-----------: | :----------------: | :--------------------: | :------------: |
+| [YouTube 观看](https://www.youtube.com/watch?v=w-TXDCyeVK0)<br><br>![Origin](origin.gif) | [YouTube 观看](https://www.youtube.com/watch?v=U6TFHKn_7Y0)<br><br>![Full Motion](Fullmotion(Flow10).gif)<br><br>运行 Flow10.py 生成融合视频的全动态版本用于标注数据。由于全动态版本会掩盖 Honeydew 的光学特性，我们使用 crossmotion 在奇数帧检测运动，偶数帧检测 Honeydew。 | [YouTube 观看](https://www.youtube.com/watch?v=ACB2qWA67pI)<br><br>_(GIF 无法完美展示)_<br><br>GIF 动图无法完美展示 crossmotion 效果，请点击 YouTube 查看。 | [YouTube 观看](https://www.youtube.com/watch?v=KLuSV7d23nI)<br><br>![Results](Results.gif)<br><br>由于 crossmotion 版本是运动帧和原始帧交替，会出现闪烁。我们优化了 predictor，并为 RT-DETR 做了完整的前后处理，详见论文。 |
+
 ## 2. Quick start
 
 ### Setup
