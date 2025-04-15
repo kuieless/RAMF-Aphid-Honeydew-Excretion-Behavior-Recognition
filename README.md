@@ -34,12 +34,12 @@ Origin：
 Full Motion：
 [Full Motion](https://www.youtube.com/watch?v=U6TFHKn_7Y0) 
 
-![Full Motion](Full motion(Flow10).gif)
+![Full Motion](Fullmotion(Flow10).gif)
 
 Cross Motion：
 [Cross Motion](https://www.youtube.com/watch?v=ACB2qWA67pI) 
 
-![Cross Motion](Cross Motion(Flown102).gif)
+![Cross Motion](CrossMotion(Flown102).gif)
 
 Results：
 [Results](https://www.youtube.com/watch?v=KLuSV7d23nI) 
