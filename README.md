@@ -26,7 +26,11 @@
 </p>
 
 ## demo
-![UI Components Overview/UI组件界面](https://github.com/kuieless/RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition/blob/master/origin.mp4)
+<video width="640" height="360" controls>
+  <source src="https://github.com/kuieless/RAMF-Aphid-Honeydew-Excretion-Behavior-Recognition/blob/master/origin.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 2. Quick start
 
 ### Setup
