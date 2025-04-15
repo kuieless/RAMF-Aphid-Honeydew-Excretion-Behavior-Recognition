@@ -27,21 +27,24 @@
 
 ## Demo
 Origin：
-[蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=w-TXDCyeVK0) 
+[Origin](https://www.youtube.com/watch?v=w-TXDCyeVK0) 
 
-![蚜虫蜜露排泄行为](origin.gif)
-Full Motion
-[蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=U6TFHKn_7Y0) 
+![Origin](origin.gif)
 
-![蚜虫蜜露排泄行为](Full motion(Flow10).gif)
-Cross Motion
-[蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=ACB2qWA67pI) 
+Full Motion：
+[Full Motion](https://www.youtube.com/watch?v=U6TFHKn_7Y0) 
 
-![蚜虫蜜露排泄行为](Cross Motion(Flown102).gif)
-Results
-[蚜虫蜜露排泄行为视频](https://www.youtube.com/watch?v=KLuSV7d23nI) 
+![Full Motion](Full motion(Flow10).gif)
 
-![蚜虫蜜露排泄行为](Results.gif)
+Cross Motion：
+[Cross Motion](https://www.youtube.com/watch?v=ACB2qWA67pI) 
+
+![Cross Motion](Cross Motion(Flown102).gif)
+
+Results：
+[Results](https://www.youtube.com/watch?v=KLuSV7d23nI) 
+
+![Results](Results.gif)
 
 ## 2. Quick start
 
