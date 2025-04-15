@@ -32,17 +32,15 @@ Origin：
 ![Origin](origin.gif)
 
 Full Motion：
-[Full Motion](https://www.youtube.com/watch?v=U6TFHKn_7Y0) 
+[Full Motion](https://www.youtube.com/watch?v=U6TFHKn_7Y0) Run Flow10.py to generate a full motion version of the fused video for labeling data. Since the full motion version obscures the optical characteristics of Honeydew, we use crossmotion to detect motion in odd frames and Honeydew in even frames.
 
 ![Full Motion](Fullmotion(Flow10).gif)
 
 Cross Motion：
-[Cross Motion](https://www.youtube.com/watch?v=ACB2qWA67pI) 
-
-![Cross Motion](CrossMotion(Flown102).gif)
+[Cross Motion](https://www.youtube.com/watch?v=ACB2qWA67pI) GIFs cannot perfectly display the crossmotion effect. Please click on YouTube to view it.
 
 Results：
-[Results](https://www.youtube.com/watch?v=KLuSV7d23nI) 
+[Results](https://www.youtube.com/watch?v=KLuSV7d23nI) Since the crossmotion version alternates between motion frames and original frames, flickering can occur. We have optimized the predictor and performed complete pre- and post-processing for RT-DETR. See the paper for details.
 
 ![Results](Results.gif)
 
