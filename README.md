@@ -25,7 +25,7 @@
 </i>
 </p>
 
-## Demo
+## Aphid Behavior Recognition Demo
 ### Effect Preview
 
 | Origin                      | RAMF: Full Motion                         |
