@@ -28,10 +28,10 @@
 ## Demo
 ### Effect Preview
 
-| Origin                      | Full Motion                         |
+| Origin                      | RAMF: Full Motion                         |
 | :--------------------------: | :---------------------------------: |
 | ![Origin Preview](origin.gif) | ![Full Motion Preview](Fullmotion(Flow10).gif) |
-| **Cross Motion**            | **Results**                   |
+| **RAMF: Cross Motion**            | **Results**                   |
 | _(No preview GIF)_       | ![Results Preview](Results.gif) |
 
 ### Detailed Description and Links
