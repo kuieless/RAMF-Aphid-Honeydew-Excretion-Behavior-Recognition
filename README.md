@@ -68,9 +68,22 @@ The weight files mentioned in the paper can be found at https://drive.google.com
 https://drive.google.com/drive/folders/1x6HPU3UU2AmzN1T9mhmMuSibFtoCTB2J?usp=sharing
 
 ### Aphid-Honeydew.1 Dataset
-In the experiment, the first fine-grained aphid behavior dataset, encompassing crawling, flicking, and honeydew excretion behaviors, was constructed.
+In the experiment, the first fine-grained aphid behavior dataset, encompassing crawling, flicking, and honeydew excretion behaviors, was constructed.If you wish to use this dataset, please cite our paper. The dataset can be referred to as **Aphid-Honeydew.1**.
 
-If you wish to use this dataset, please cite our paper. The dataset can be referred to as **Aphid-Honeydew.1**.
+The classes mapping table of the dataset downloaded from the network drive contains the following five categories:
+
+*   kicking
+*   move
+*   HeadProbe
+*   born
+*   milu2
+
+Category Mappings:
+
+*   Category 0 "kicking" represents the behavior category "Flicking".
+*   Category 1 "move" represents the behavior category "Crawling".
+*   Category 4 "milu2" represents the category "Honeydew".
+
 
 Our dataset can be found at https://drive.google.com/file/d/1uIJgNi4OcERA8spSsAdOIX-0BAINIZKS/view?usp=sharing
 
