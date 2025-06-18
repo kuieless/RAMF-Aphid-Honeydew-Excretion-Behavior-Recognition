@@ -25,7 +25,8 @@
 </i>
 </p>
 
-Read Paper：https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1609222/abstract
+## Read Paper：
+https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1609222/abstract
 
 ## Aphid Behavior Recognition Demo
 ### Effect Preview
