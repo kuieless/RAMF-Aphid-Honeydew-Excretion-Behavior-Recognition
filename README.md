@@ -6,25 +6,19 @@
 Dataset and weight files are available on [Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE). We're actively streamlining and optimizing the codebase.
 
 ---
-
 ### **June 12, 2025: Paper Accepted!**
 Our paper has been **officially accepted**!
 
 ---
-
 ### **July 7, 2025: Paper Published!**
 Our paper is now **published**! Find it [here](YOUR_PUBLICATION_LINK_HERE).
 
 ---
-
 ### **July 16, 2025: RAMF Code Uploaded**
 The code for **RAMF** has been uploaded to this repository.
 
 
-## 7.16：We uploaded the code for RAMF on July 16th.
-## 7.7 出版
-## 6.12 The paper接受
-## 4.15：Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code. However, we have prepared the dataset and weight files, which are available for download on Google Drive.
+
 
 
 <h2 align="center">
