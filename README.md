@@ -1,5 +1,5 @@
-## We uploaded the code for RAMF on July 16th.
-## Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code. However, we have prepared the dataset and weight files, which are available for download on Google Drive.
+## 7.16：We uploaded the code for RAMF on July 16th.
+## 4.15：Note：Due to the complexity of the current codebase and environment, we are actively working on streamlining and optimizing the code. However, we have prepared the dataset and weight files, which are available for download on Google Drive.
 
 
 <h2 align="center">
