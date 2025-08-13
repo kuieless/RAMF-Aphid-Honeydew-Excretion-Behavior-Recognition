@@ -5,7 +5,7 @@
 * **April 15, 2025:** Dataset and weight files made available on Google Drive. (Note: We're actively optimizing the codebase.)
 * **June 12, 2025:** Our paper was **officially accepted**! 
 * **July 7, 2025:** Paper **published**! (https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1609222/abstract).
-* **July 16, 2025:** **RAMF code uploaded** to this repository.
+* **July 16, 2025:** **RAMF code uploaded** to this repository.You can use RAMF for motion feature extraction. We are still organizing the RK50 code. If needed, please leave your email address(Issues), and I will send you all the unintegrated but usable code.
 
 ---
 
